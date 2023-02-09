@@ -1,1 +1,1 @@
-# fast_insert_by_psycopg2
+# Fast Insert Data from Dataframe to PostgresSQL using pyscopg2
